@@ -12,7 +12,7 @@ void loop() {
   Serial.print("LDR Value: ");
   Serial.println(ldrValue);
 
-  if (ldrValue > 3000) {
+  if (ldrValue <= 3000) {
     digitalWrite(LED_PIN, LOW);  
     Serial.println("LED OFF");
   } else {
