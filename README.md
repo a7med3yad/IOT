@@ -102,7 +102,12 @@ An advanced lighting system using LDR and potentiometer to adjust brightness bas
 - LEDs, Resistors
 
 ---
+Watch full demonstrations of each project in action:
 
+📁 **Google Drive Folder**:  
+[📂 Click here to access all videos](https://drive.google.com/drive/folders/19Rhb89SVBSde3dNrPF47Bv5tEr1gYktL?usp=sharing)
+
+---
 ## ✅ Learning Outcomes
 
 - Working with analog and digital signals on ESP32  
